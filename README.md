@@ -4,5 +4,5 @@
 Emilio Funes Rivas - 2018216713
 Ginger Rodriguez Gutierrez - 2022035672
 
-### Estado del proyecto: Finalizado
+### Estatus de la entrega: MuyBuena
 
